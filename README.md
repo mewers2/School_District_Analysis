@@ -86,10 +86,10 @@ The adjusted analysis returned the following results:
 
 ## School District Analysis Summary
 After updating the school district analysis to account for the adjusted Thomas High School 9th graders' reading and math scores replaced with NaNs, the changes to the scores did not make a significant impact on the overall analysis as even whith the adjusted scores Thomas High School still performed as the number 2 top performing school, but here are four changes to highlight:
-    - The Thomas High School average math score decreased from 83.41 to 83.35 and the % of Thomas High School students passing math decreased from 93.27% to 93.18%.
-    - The Thomas High School average reading score increased from 83.84 to 83.89 however the % of Thomas High School students passing reading decreased from 97.30% to 97.02%.
-    - Thomas High School's overall percentage of students passing both math and reading decreased from 90.94% to 90.63%.
-    - The math and reading scores by grade show a NaN value for the Thomas High School 9th grade column when compared to the other schools:
+   - The Thomas High School average math score decreased from 83.41 to 83.35 and the % of Thomas High School students passing math decreased from 93.27% to 93.18%.
+   - The Thomas High School average reading score increased from 83.84 to 83.89 however the % of Thomas High School students passing reading decreased from 97.30% to 97.02%.
+   - Thomas High School's overall percentage of students passing both math and reading decreased from 90.94% to 90.63%.
+   - The math and reading scores by grade show a NaN value for the Thomas High School 9th grade column when compared to the other schools:
    
    Math Scores By Grade:
    
