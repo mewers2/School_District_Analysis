@@ -45,9 +45,13 @@ The analysis of the school district and their standardized testing returned the 
 
 ![school_summary_df]()
 
-- The original top 5 performing schools and bottom 5 performing schools are:
+- The original top 5 performing schools are:
 
-![high_and_low_5]()
+![high_5]()
+
+- The original bottom 5 performing schools are:
+
+![low_5]()
 
 - The original average math scores by grade are:
 
@@ -87,9 +91,13 @@ The resulting student data with the replaced scores shows NaN values in the Thom
 
 ![school_summary_df_NEW]()
 
-- The adjusted top 5 performing schools and bottom 5 performing schools are:
+- The adjusted top 5 performing schools are:
 
-![high_and_low_5_NEW]()
+![high_5_NEW]()
+
+- The adjusted bottom 5 performing schools are:
+
+![low_5_NEW]()
 
 - The adjusted average math scores by grade are:
 
