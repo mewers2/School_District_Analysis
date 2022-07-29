@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-This is a statistical analysis of a local city school district's standardized testing and student funding. The analysis is being conducted for the school district's school board to inform them on trends on student performance and student funding to enable them to make informed budgeting decisions.  An original analysis was conducted with the given data and then evidence of academic dishonesty was discovered within the Thomas High School ninth graders' scores.  A second analysis was conducted by replacing the Thomas High School ninth graders' math and reading scores with NaN values, or not a number using the 'loc' [method](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html). The second analysis coducted will be referred to as the adjusted analysis.  The required tasks for the analysis are listed below:
+This is a statistical analysis of a local city school district's standardized testing and student funding. The analysis is being conducted for the school district's school board to inform them on trends on student performance and student funding to enable them to make informed budgeting decisions.  An original analysis was conducted with the given data and then evidence of academic dishonesty was discovered within the Thomas High School ninth graders' scores.  A second analysis was conducted by replacing the Thomas High School ninth graders' math and reading scores with NaN values, or not a number using the `loc` [method](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html). The second analysis coducted will be referred to as the adjusted analysis.  The required tasks for the analysis are listed below:
 
 1. Develop a school district analysis summary with the following metrics:
     - Provide the total number of schools in the school district.
@@ -47,7 +47,7 @@ The analysis of the school district and their standardized testing returned the 
 
 
 ### Adjusted Analysis
-To conduct the adjusted analysis, the Thomas High School ninth graders' math and reading scores were replaced with NaN values, or not a number. A 'loc' [script](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html) was used to filter just the scores from the Thomas High School ninth graders:
+To conduct the adjusted analysis, the Thomas High School ninth graders' math and reading scores were replaced with NaN values, or not a number. A `loc` [script](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html) was used to filter just the scores from the Thomas High School ninth graders:
 
 ![loc_script_replacing_scores_with_NaNs](https://github.com/mewers2/School_District_Analysis/blob/main/Resources/loc_script_replacing_scores_with_NaNs.png)
 
